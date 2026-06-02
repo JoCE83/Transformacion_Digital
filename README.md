@@ -20,4 +20,4 @@ En el contexto actual, la Ciencia de Datos ayuda a identificar patrones, hacer p
 Para ejecutar el archivo, se puede usar el siguiente comando:
 
 ```bash
-python promedio.py
+python Examen_CD_Promedio_Numeros.ipynb
